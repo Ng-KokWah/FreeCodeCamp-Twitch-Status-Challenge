@@ -7,4 +7,6 @@ are streaming, and the content they are streaming.
 
 It also allows you to go to their channels by clicking on their names.
 
+You may also access this page on codepen: https://codepen.io/dragdest4/full/XeWPXd/
+
 This was coded for the FreeCodeCamp Twitch Status Challenge using the Twitch.tv JSON API.
