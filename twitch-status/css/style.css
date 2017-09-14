@@ -1,0 +1,124 @@
+#wholepage {
+  background-color:rgba(255,255,255,0.8);
+  width:600px;
+  text-align:center;
+  margin-left:470px;
+}
+
+body {
+  text-align:center;
+  background: linear-gradient(95deg, #098b69, #e17826, #7d1483);
+background-size: 600% 600%;
+
+-webkit-animation: AnimationName 36s ease infinite;
+-moz-animation: AnimationName 36s ease infinite;
+animation: AnimationName 36s ease infinite;
+   background-color:black;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 29%}
+    50%{background-position:100% 72%}
+    100%{background-position:0% 29%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 29%}
+    50%{background-position:100% 72%}
+    100%{background-position:0% 29%}
+}
+@keyframes AnimationName { 
+    0%{background-position:0% 29%}
+    50%{background-position:100% 72%}
+    100%{background-position:0% 29%}
+}
+
+button {
+  display:inline-block;
+  border-style:solid;
+  border-radius:10px;
+  border-width:3px;
+  border-color:blue;
+  width:120px;
+  height:60px;
+ background: linear-gradient(80deg, #0cf0f0, #ee1aa7, #5748d2);
+background-size: 600% 600%;
+
+-webkit-animation: AnimationName 36s ease infinite;
+-moz-animation: AnimationName 36s ease infinite;
+animation: AnimationName 36s ease infinite;
+  font-size:20px;
+  font-weight:900;
+  margin-top:20px;
+}
+
+button:hover {
+ background: linear-gradient(80deg, #968c0c, #06811a, #0f248d);
+background-size: 600% 600%;
+
+-webkit-animation: AnimationName 36s ease infinite;
+-moz-animation: AnimationName 36s ease infinite;
+animation: AnimationName 36s ease infinite;
+  color:white;
+  
+}
+
+button:active {
+  background: linear-gradient(80deg, #b20b0b, #0e6367, #626b12);
+background-size: 600% 600%;
+
+-webkit-animation: AnimationName 36s ease infinite;
+-moz-animation: AnimationName 36s ease infinite;
+animation: AnimationName 36s ease infinite;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th {
+  padding: 5px;
+}
+
+table {
+  margin-top:20px;
+}
+
+footer {
+  font-weight:900;
+  margin-top:20px;
+  margin-bottom:10px;
+  color:white;
+}
+
+#name1 {
+  font-weight:900;
+}
+
+#name2 {
+  font-weight:900;
+}
+
+#name3 {
+  font-weight:900;
+}
+
+#name4 {
+  font-weight:900;
+}
+
+#name5 {
+  font-weight:900;
+}
+
+#name6 {
+  font-weight:900;
+}
+
+#name7 {
+  font-weight:900;
+}
+
+#name8 {
+  font-weight:900;
+}
